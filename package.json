@@ -1,5 +1,5 @@
 {
-  "name": "todo_list_application-Jinyoung_Ko-CDOF5",
+  "name": "todo_list_application-jinyoung_ko-cdof5",
   "version": "1.0.0",
   "description": "A simple To-Do List application to manage daily tasks.",
   "main": "js/main.js",
@@ -9,11 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jinyoung-plus/Todo_list_application-Jinyoung_Ko-CDOF5.git"
+    "url": "git+https://github.com/jinyoung-plus/Todo_list_application-Jinyoung_Ko-CDOF5.git"
   },
-  "keywords": ["todo", "task manager", "productivity"],
+  "keywords": [
+    "todo",
+    "task manager",
+    "productivity"
+  ],
   "author": "jinyoung-plus",
   "license": "MIT",
-  "dependencies": {
-  }
+  "bugs": {
+    "url": "https://github.com/jinyoung-plus/Todo_list_application-Jinyoung_Ko-CDOF5/issues"
+  },
+  "homepage": "https://github.com/jinyoung-plus/Todo_list_application-Jinyoung_Ko-CDOF5#readme"
 }
