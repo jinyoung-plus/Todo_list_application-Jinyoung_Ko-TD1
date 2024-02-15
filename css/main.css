@@ -41,7 +41,7 @@ body::-webkit-scrollbar-thumb {
 /* Header */
 .main-header {
 	color: var(--white);
-	background: var(--blue);
+	background: darkorange;
 	padding: 1.5rem 0;
 	text-align: center;
 }
