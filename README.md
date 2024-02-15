@@ -1,3 +1,31 @@
+# Todo List Application
+
+## Description
+
+This application is a simple to-do list to help manage daily tasks. It allows users to add, complete, and remove tasks.
+
+## How to Run
+
+To run this project locally:
+
+1. Clone the repository:
+   git clone https://github.com/jinyoung-plus/Todo_list_application-Jinyoung_Ko-TD1.git
+
+2. Install dependencies:
+   npm install
+
+3. Start the application:
+   npm start
+
+## How to Contribute
+
+Contributions are welcome! To contribute:
+
+1. Fork the repository.
+2. Create a new branch for your feature.
+3. Add your changes and commit them with a clear commit message.
+4. Push your changes and create a pull request.
+
 ## .preview
 
 ![To-Do List App](https://i.ibb.co/h73STxF/screencapture-localhost-5500-2020-11-29-22-11-39.png)
