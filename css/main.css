@@ -48,7 +48,7 @@ body::-webkit-scrollbar-thumb {
 
 /* Add Task */
 #add-task {
-	width: 70%;
+	width: 80%;
 	margin: 0 auto;
 	margin-top: 2rem;
 }
