@@ -17,6 +17,11 @@ To run this project locally:
 3. Start the application:
    npm start
 
+4. Open your web browser and go to the following URL:
+   http://localhost:3000/
+
+   You should now see the Todo List Application running.
+
 ## How to Contribute
 
 Contributions are welcome! To contribute:
@@ -28,6 +33,7 @@ Contributions are welcome! To contribute:
 
 ## .preview
 
+![alt text](image.png)
 ![To-Do List App](https://i.ibb.co/h73STxF/screencapture-localhost-5500-2020-11-29-22-11-39.png)
 
 ## .features
